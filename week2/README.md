@@ -1,6 +1,7 @@
 # Hello stranger! 
 ## good bye world!
-<h2>good day, world<h2>
+
+<h2>good day, world</h2>
 
   This is my *first commit*!
   
