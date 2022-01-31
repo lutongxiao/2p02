@@ -33,8 +33,8 @@
   3. this is list three
 
 - [x]this is todo lisy
-- []this is todo list that is not complete
-- []this is another todo list that is not complete  
+- [ ]this is todo list that is not complete
+- [ ]this is another todo list that is not complete  
 
         
 # hahahahahah        
